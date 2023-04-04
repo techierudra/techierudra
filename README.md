@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=techierudra&label=Profile%20views&color=0e75b6&style=flat" alt="techierudra" /> </p>
 
-[![trophy]<p align="center">(https://github-profile-trophy.vercel.app/?username=techierudra&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)</p>
+[![trophy]<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=techierudra&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy" alt='techierudra"</p>
 
   
 - 🔭 I’m currently working on **building skills.**
