@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=techierudra&label=Profile%20views&color=0e75b6&style=flat" alt="techierudra" /> </p>
 
-<p> <align="center" src="https://github-profile-trophy.vercel.app/?username=techierudra&theme=onedark&row=1" />
+<p> <align="center" img src="https://github-profile-trophy.vercel.app/?username=techierudra&theme=onedark&row=1" />
 </p>
 
   
