@@ -48,4 +48,4 @@
 
 <br></br>
 ### Contribution Graph
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techierudra&theme=dracula)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techierudra&theme=github-compact)
