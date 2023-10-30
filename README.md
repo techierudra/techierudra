@@ -41,7 +41,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techierudra&theme=tokyonight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" />
 </p>
 
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 </div>
 
